@@ -1,4 +1,4 @@
-# Juego del Ahorcado
+# Adivina la palabra
 
 Este es el juego del ahorcado implementado en Python. El juego elige una palabra secreta de una categoría aleatoria y te desafía a adivinarla antes de que se te agoten las vidas.
 
